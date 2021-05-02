@@ -24,5 +24,13 @@
          "webOpen":true,
          "click":true
       }
+      {
+         "name":"Duboku",
+         "pic":"https://github.com/FongMi/FreeDTV/raw/main/image/momovod.png",
+         "ads":"",
+         "webUrl":"https://www.duboku.tv/",
+         "webOpen":true,
+         "click":true
+      },
    ]
 }
